@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\CauTrucDuLieuVaGiaiThuat\StackBaiTap\StackBaiTap\Source.cpp(65,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CauTrucDuLieuVaGiaiThuat\StackBaiTap\StackBaiTap\Source.cpp(67,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CauTrucDuLieuVaGiaiThuat\StackBaiTap\StackBaiTap\Source.cpp(69,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CauTrucDuLieuVaGiaiThuat\StackBaiTap\StackBaiTap\Source.cpp(71,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CauTrucDuLieuVaGiaiThuat\StackBaiTap\StackBaiTap\Source.cpp(98,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
